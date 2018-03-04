@@ -70,6 +70,7 @@ header {
   background: -ms-linear-gradient(#ddfbfc, #c6eafa);
   background: linear-gradient(#ddfbfc, #c6eafa);
   position: relative;
+  margin: 50px 0 0 0;
   padding: 15px 20px;
   border-bottom: 1px solid #B2D2E1;
 }
